@@ -1,6 +1,6 @@
 import unittest2
 
-from src.ejercicio2 import *
+from ejercicio2 import *
 
 
 class Pruebas(unittest2.TestCase):
