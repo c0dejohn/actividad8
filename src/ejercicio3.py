@@ -1,6 +1,6 @@
 """
-author: john manyoma
-@c0dejohn
+autor: john manyoma
+
 
 Métodos para hacar cálculos con figuras
 

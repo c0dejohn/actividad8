@@ -1,7 +1,6 @@
 """
-    author: john manyoma
-    @c0dejohn
-    
+    autor: john manyoma
+
     Ejericicio 1: jugando con operadores
 
     """

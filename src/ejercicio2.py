@@ -1,6 +1,5 @@
 """
-author: john manyoma
-@c0dejohn
+autor: john manyoma
 
 fundamentos programación
 Universidad Iberoamericana
